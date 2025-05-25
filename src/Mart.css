@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    margin-top: 18%;
+}
+h1:hover{
+    color:aquamarine;
+    transition: 0.3ms;
+    transform: scale(1.1);
+
+}
+.input1{
+    width: 70%;
+    height: 70%;
+    padding: 10px;
+    margin: 20px;
+}
+body{
+    background-color: rgb(127, 86, 167);
+}
